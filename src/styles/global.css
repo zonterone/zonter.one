@@ -4,7 +4,7 @@
 
 @font-face {
   font-family: 'Hack';
-  src: url(/assets/fonts/Hack-NF.ttf);
+  src: url(/assets/fonts/FiraCode-NF.ttf);
   display: swap;
 }
 
@@ -32,7 +32,7 @@ div#__next > div {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #ebdbb2;
+  background: gray;
   border-radius: 5px;
 }
 

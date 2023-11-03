@@ -1,39 +1,35 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "readmeUrl": "https://github.com/zonterone/zonterone/blob/main/README.md",
+  "title": "ZonterOne",
+  "name": "Andrei",
+  "ascii": "zt",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "zonterone",
+    "tg": "zonterone"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
-  "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
-  },
+  "email": "zonterone@gmail.com",
+  "ps1_hostname": "zonter_one",
+  "ps1_username": "guest",
+  "repo": "https://github.com/zonterone/zonter.one",
+  "resume_url": "https://career.habr.com/zonterone",
   "colors": {
     "light": {
-      "background": "#FBF1C9",
-      "foreground": "#3C3836",
-      "yellow": "#D79921",
-      "green": "#98971A",
+      "background": "#282A36",
+      "foreground": "#F8F8F2",
+      "yellow": "#ff79c6",
+      "green": "#bd93f9",
       "gray": "#7C6F64",
-      "blue": "#458588",
-      "red": "#CA2124"
+      "blue": "#8be9fd",
+      "red": "#FF9580"
     },
     "dark": {
-      "background": "#2E3440",
-      "foreground": "#E5E9F0",
-      "yellow": "#5E81AC",
-      "green": "#A3BE8C",
+      "background": "#282A36",
+      "foreground": "#F8F8F2",
+      "yellow": "#ff79c6",
+      "green": "#bd93f9",
       "gray": "#88C0D0",
-      "blue": "#EBCB8B",
-      "red": "#BF616A"
+      "blue": "#8be9fd",
+      "red": "#FF9580"
     }
   }
 }
