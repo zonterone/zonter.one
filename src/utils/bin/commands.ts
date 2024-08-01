@@ -126,12 +126,15 @@ export const sudo = async (args?: string[]): Promise<string> => {
 // Banner
 export const banner = (args?: string[]): string => {
   return `
-███████╗ ██████╗ ███╗   ██╗████████╗███████╗██████╗  ██████╗ ███╗   ██╗███████╗
-╚══███╔╝██╔═══██╗████╗  ██║╚══██╔══╝██╔════╝██╔══██╗██╔═══██╗████╗  ██║██╔════╝
-  ███╔╝ ██║   ██║██╔██╗ ██║   ██║   █████╗  ██████╔╝██║   ██║██╔██╗ ██║█████╗  
- ███╔╝  ██║   ██║██║╚██╗██║   ██║   ██╔══╝  ██╔══██╗██║   ██║██║╚██╗██║██╔══╝  
-███████╗╚██████╔╝██║ ╚████║   ██║   ███████╗██║  ██ ╚██████╔╝██║ ╚████║███████╗
-╚══════╝ ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝                                                                               
+██╗  ██╗███████╗██╗     ██╗      ██████╗ 
+██║  ██║██╔════╝██║     ██║     ██╔═══██╗
+███████║█████╗  ██║     ██║     ██║   ██║
+██╔══██║██╔══╝  ██║     ██║     ██║   ██║
+██║  ██║███████╗███████╗███████╗╚██████╔╝
+╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ 
+
+My name is Andrei. I am a front-end developer.
+I love to build websites and play with new technologies.
 
 Type 'sumfetch' to display summary.
 Type 'repo' or click <u><a class="text-light-blue dark:text-dark-blue underline" href="${config.repo}" target="_blank">here</a></u> for the Github repository.

@@ -12,6 +12,10 @@
   font-family: 'Hack', monospace;
 }
 
+body {
+  @apply bg-light-background dark:bg-dark-background min-w-max;
+}
+
 html,
 body,
 body > div:first-child,
